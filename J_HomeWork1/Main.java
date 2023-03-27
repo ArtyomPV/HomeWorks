@@ -13,8 +13,15 @@ public class Main {
 //        sc.close();
 //
 //        System.out.println(task1.sum(number));
+
 //============ Задача 2 ============
-        Task2 task2 = new Task2();
-        task2.getSimple();
+
+//        Task2 task2 = new Task2();
+//        task2.getSimple();
+
+//============ Задача 3 ============
+
+        Task3 task3 = new Task3();
+        task3.Operations();
     }
 }
